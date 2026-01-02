@@ -47,7 +47,7 @@ Utilization of **Masked Shaders** and `AnimationControllers` to create wires tha
 
 | **System Off** | **Power Sequence** | **Connection Successfull** | **Error Diagnostics** |
 |:---:|:---:|:---:|:---:|
-| <img src="assets/complete_lab_off_00000.png" width="200"> | <img src="screenshots/system_on.png" width="200"> | <img src="screenshots/connection_succesfull.png" width="200"> | <img src="assets/connect/error_screen_00000.png" width="200"> |
+| <img src="assets/complete_lab_off_00000.png" width="200"> | <img src="complete_lab_on_00000" width="200"> | <img src="assets/connection_successfull.jpeg" width="200"> | <img src="assets/connect/error_screen_00000.png" width="200"> |
 
 *(Note: Replace the paths above with your actual screenshots or GIFs for the best effect on GitHub)*
 
