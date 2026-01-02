@@ -67,7 +67,7 @@ Utilization of **Masked Shaders** and `AnimationControllers` to create wires tha
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/yourusername/system-link-vpn.git](https://github.com/yourusername/system-link-vpn.git)
+    git clone https://github.com/FidaHussainST/system_link_vpn.git)
     ```
 
 2.  **Install dependencies**
