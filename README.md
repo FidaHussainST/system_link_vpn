@@ -45,9 +45,9 @@ Utilization of **Masked Shaders** and `AnimationControllers` to create wires tha
 
 ## 📸 Interface Preview
 
-| **System Off** | **Power Sequence** | **Holographic Link** | **Error Diagnostics** |
+| **System Off** | **Power Sequence** | **Connection Successfull** | **Error Diagnostics** |
 |:---:|:---:|:---:|:---:|
-| <img src="assets/complete_lab_off_00000.png" width="200"> | <img src="assets/wire_to_globe_00001.png" width="200"> | <img src="assets/connect/germany_screen_00000.png" width="200"> | <img src="assets/connect/error_screen_00000.png" width="200"> |
+| <img src="assets/complete_lab_off_00000.png" width="200"> | <img src="screenshots/system_on.png" width="200"> | <img src="screenshots/connection_succesfull.png" width="200"> | <img src="assets/connect/error_screen_00000.png" width="200"> |
 
 *(Note: Replace the paths above with your actual screenshots or GIFs for the best effect on GitHub)*
 
